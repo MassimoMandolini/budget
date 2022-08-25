@@ -1,0 +1,17 @@
+{
+    "name": "oltrematica/budget",
+    "description": "the package for the budget functionalities",
+    "type": "library",
+    "authors": [
+        {
+            "name": "oltrematica"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "oltrematica\\budget\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
